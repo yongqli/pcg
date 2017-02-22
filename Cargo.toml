@@ -6,4 +6,5 @@ authors = ["Coda Hale <coda.hale@gmail.com>"]
 
 [dependencies]
 rand = "*"
-rustc-serialize = "*"
+serde = "*"
+serde_derive = "*"
