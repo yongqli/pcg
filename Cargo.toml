@@ -6,5 +6,5 @@ authors = ["Coda Hale <coda.hale@gmail.com>"]
 
 [dependencies]
 rand = "*"
-serde = "*"
-serde_derive = "*"
+serde = "0.9"
+serde_derive = "0.9"
